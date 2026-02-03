@@ -21,6 +21,7 @@ A simple To-Do List application built using Python and MySQL for managing tasks 
 4. Run the application:python main.py
 
 ## Files
-main.py    - Application entry point
-tasks.py   - Task operations
-db.py      - MySQL database connection and queries
+- main.py – Application entry point
+- tasks.py – Task operations
+- db.py – MySQL database connection and queries
+
